@@ -50,12 +50,4 @@ Every time you run "setup.py", Signature will change and If you want encrypt the
 [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png" title="LinkedIn">](https://linkedin.com/in/yunus-ayd%C4%B1n-b9b01a18a/) [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/github.png" title="Github">](https://github.com/aydinnyunus/WhatsappBOT) [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/instagram-new.png" title="Instagram">](https://instagram.com/aydinyunus_/) [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/twitter-squared.png" title="LinkedIn">](https://twitter.com/aydinnyunuss)
 
 
-## Another Projects : 
 
-•**AMAZING KEYLOGGER** : https://github.com/aydinnyunus/Keylogger
-
-•**WHATSAPP BOT** : https://github.com/aydinnyunus/WhatsappBOT
-
-•**MACHINE LEARNING** : https://github.com/aydinnyunus/Machine-Learning
-
-•**FACE RECOGNITION SECURITY** : https://github.com/aydinnyunus/FaceRecognitionSecurity
